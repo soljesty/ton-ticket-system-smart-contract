@@ -1,4 +1,4 @@
-# ton-ticket-system
+# Ton Ticket System Smart Contract
 
 ## Project structure
 
@@ -24,3 +24,6 @@
 ### Add a new contract
 
 `npx blueprint create ContractName` or `yarn blueprint create ContractName`
+
+## Contact
+https://t.me/soljesty
